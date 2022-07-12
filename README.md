@@ -1,4 +1,4 @@
-# ur5_robot
+# UR5 Robot
 
 This is an Android app that can be deployed to remotely control a UR5 robot.
 
